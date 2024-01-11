@@ -21,6 +21,8 @@ To cite our papers or the dataset, please use the BibTeX entries available in [c
 
 ## Structure of the Dataset
 
+**Important Note:** Due to GitHub's restriction on file sizes, the dataset files are zipped to a maximum of 100 MB files each.
+
 The dataset is organized as follows:
 
 - The source code of all the 595 Defects4J bugs considered in our study is available in [projects_source_code_buggy](projects_source_code_buggy) directory.
