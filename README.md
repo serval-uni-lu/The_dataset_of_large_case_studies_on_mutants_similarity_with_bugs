@@ -24,7 +24,7 @@ To cite our papers or the dataset, please use the BibTeX entries available in [c
 The dataset is organized as follows:
 
 - The source code of all the 595 Defects4J bugs considered in our study is available in [projects_source_code_buggy](projects_source_code_buggy) directory.
-- The source code of fixes to all the bugs is available in [projects_source_code_fixes](projects_source_code_fixes) directory. These fixes were considered for mutation purposes.
+- The source code of fixes to all the bugs is available in [projects_source_code_fixed](projects_source_code_fixed) directory. These fixes were considered for mutation purposes.
 - The details of fixes to all the bugs with tests are available in [fixes_for_all_bugs_with_tests](fixes_for_all_bugs_with_tests) directory.
 - The statements modified in the bug-fixes are available in [changed_lines_to_fix_bugs](changed_lines_to_fix_bugs) directory.
 - The details on the tests that failed for Defects4J bugs are in [groundtruth_bugs_failing_tests](groundtruth_bugs_failing_tests) directory.
