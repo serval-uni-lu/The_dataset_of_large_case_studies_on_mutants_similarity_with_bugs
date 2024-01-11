@@ -1,0 +1,1 @@
+[Cli,Codec,Collections], [Compress,Csv,Gson], [JacksonCore,JacksonDatabind,JacksonXml], [Jsoup,JxPath,Lang], [Math,Mockito,Time]
