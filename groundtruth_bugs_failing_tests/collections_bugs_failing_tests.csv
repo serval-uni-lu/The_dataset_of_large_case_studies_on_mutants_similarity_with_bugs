@@ -1,0 +1,4 @@
+25,"org.apache.commons.collections4.IteratorUtilsTest::testCollatedIterator"
+26,"org.apache.commons.collections4.keyvalue.MultiKeyTest::testEqualsAfterSerializationOfDerivedClass"
+27,"org.apache.commons.collections4.map.MultiValueMapTest::testUnsafeDeSerialization"
+28,"org.apache.commons.collections4.trie.PatriciaTrieTest::testPrefixMapClear"

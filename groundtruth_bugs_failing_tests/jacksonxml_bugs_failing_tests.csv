@@ -1,0 +1,6 @@
+1,"com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedLists180Test::testNestedUnwrappedLists180;com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNestedWithEmpty2;com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNestedWithEmpty"
+2,"com.fasterxml.jackson.dataformat.xml.misc.XmlTextTest::testMixedContent"
+3,"com.fasterxml.jackson.dataformat.xml.stream.XmlParserNextXxxTest::testXmlAttributesWithNextTextValue"
+4,"com.fasterxml.jackson.dataformat.xml.misc.RootNameTest::testDynamicRootName"
+5,"com.fasterxml.jackson.dataformat.xml.MapperCopyTest::testCopyWith"
+6,"com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith0Bytes;com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith2Bytes;com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith3Bytes;com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith4Bytes;com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith1Byte"
