@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Collections_26,MultiKey_1.java,1,0,None
+Collections_26,MultiKey_3.java,3,0,None
+Collections_26,MultiKey_2.java,2,-1,None
+Collections_26,MultiKey_5.java,5,5,"org.apache.commons.collections4.keyvalue.MultiKeyTest.testHashCode,org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyContainsKey,org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyGet,org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyPut,org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyRemove"
+Collections_26,MultiKey_7.java,7,1,"org.apache.commons.collections4.keyvalue.MultiKeyTest.testGetKeysArrayConstructorNonCloned"
+Collections_26,MultiKey_6.java,6,0,None
+Collections_26,MultiKey_4.java,4,0,None

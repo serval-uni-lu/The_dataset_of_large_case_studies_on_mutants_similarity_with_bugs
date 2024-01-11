@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Codec_11,QuotedPrintableCodec_2.java,2,0,None
+Codec_11,QuotedPrintableCodec_3.java,3,1,"org.apache.commons.codec.net.QuotedPrintableCodecTest.testUltimateSoftBreak"
+Codec_11,QuotedPrintableCodec_1.java,1,0,None
+Codec_11,QuotedPrintableCodec_5.java,5,0,None
+Codec_11,QuotedPrintableCodec_6.java,6,-1,None
+Codec_11,QuotedPrintableCodec_4.java,4,0,None
+Codec_11,QuotedPrintableCodec_7.java,7,0,None
+Codec_11,QuotedPrintableCodec_8.java,8,1,"org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeStringWithNull"

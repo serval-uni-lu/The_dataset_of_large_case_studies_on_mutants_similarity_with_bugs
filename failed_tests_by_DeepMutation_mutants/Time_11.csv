@@ -1,0 +1,17 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Time_11,ZoneInfoCompiler_3.java,3,0,None
+Time_11,ZoneInfoCompiler_12.java,12,-1,None
+Time_11,ZoneInfoCompiler_13.java,13,-1,None
+Time_11,ZoneInfoCompiler_5.java,5,0,None
+Time_11,ZoneInfoCompiler_14.java,14,0,None
+Time_11,ZoneInfoCompiler_10.java,10,0,None
+Time_11,ZoneInfoCompiler_16.java,16,-1,None
+Time_11,ZoneInfoCompiler_15.java,15,-1,None
+Time_11,ZoneInfoCompiler_4.java,4,0,None
+Time_11,ZoneInfoCompiler_8.java,8,-1,None
+Time_11,ZoneInfoCompiler_1.java,1,0,None
+Time_11,ZoneInfoCompiler_6.java,6,0,None
+Time_11,ZoneInfoCompiler_7.java,7,1,"org.joda.time.tz.TestCompiler.testDateTimeZoneBuilder"
+Time_11,ZoneInfoCompiler_2.java,2,-1,None
+Time_11,ZoneInfoCompiler_9.java,9,0,None
+Time_11,ZoneInfoCompiler_11.java,11,-1,None

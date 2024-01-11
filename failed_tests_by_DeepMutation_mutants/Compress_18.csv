@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_18,TarArchiveOutputStream_7.java,7,0,None
+Compress_18,TarArchiveOutputStream_4.java,4,0,None
+Compress_18,TarArchiveOutputStream_5.java,5,1,"org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest.testMaxFileSizeError"
+Compress_18,TarArchiveOutputStream_12.java,12,0,None
+Compress_18,TarArchiveOutputStream_2.java,2,0,None
+Compress_18,TarArchiveOutputStream_9.java,9,0,None
+Compress_18,TarArchiveOutputStream_6.java,6,1,"org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest.testBigNumberPosixMode"
+Compress_18,TarArchiveOutputStream_3.java,3,0,None
+Compress_18,TarArchiveOutputStream_1.java,1,3,"org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest.testWriteNonAsciiDirectoryNamePosixMode,org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest.testWriteNonAsciiPathNamePaxHeader,org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest.testWriteNonAsciiLinkPathNamePaxHeader"
+Compress_18,TarArchiveOutputStream_8.java,8,0,None
+Compress_18,TarArchiveOutputStream_11.java,11,-1,None
+Compress_18,TarArchiveOutputStream_10.java,10,-1,None

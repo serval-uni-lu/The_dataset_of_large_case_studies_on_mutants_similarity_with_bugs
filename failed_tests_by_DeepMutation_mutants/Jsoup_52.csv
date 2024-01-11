@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_52,DataUtil_5.java,5,0,None
+Jsoup_52,DataUtil_4.java,4,0,None
+Jsoup_52,XmlDeclaration_4.java,4,0,None
+Jsoup_52,XmlTreeBuilder_4.java,4,0,None
+Jsoup_52,XmlTreeBuilder_2.java,2,1,"org.jsoup.parser.XmlTreeBuilderTest.xmlFragment"
+Jsoup_52,XmlTreeBuilder_5.java,5,0,None
+Jsoup_52,DataUtil_2.java,2,0,None
+Jsoup_52,XmlDeclaration_5.java,5,0,None
+Jsoup_52,XmlDeclaration_2.java,2,0,None
+Jsoup_52,XmlDeclaration_3.java,3,3,"org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlIso8859,org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlUtf8,org.jsoup.parser.XmlTreeBuilderTest.testDetectCharsetEncodingDeclaration"
+Jsoup_52,XmlTreeBuilder_3.java,3,11,"org.jsoup.parser.XmlTreeBuilderTest.testPopToClose,org.jsoup.parser.XmlTreeBuilderTest.handlesXmlDeclarationAsDeclaration,org.jsoup.parser.XmlTreeBuilderTest.testSupplyParserToJsoupClass,org.jsoup.parser.XmlTreeBuilderTest.testDoesNotForceSelfClosingKnownTags,org.jsoup.parser.XmlTreeBuilderTest.testCommentAndDocType,org.jsoup.parser.XmlTreeBuilderTest.testSimpleXmlParse,org.jsoup.parser.XmlTreeBuilderTest.xmlFragment,org.jsoup.parser.XmlTreeBuilderTest.testDetectCharsetEncodingDeclaration,org.jsoup.parser.XmlTreeBuilderTest.testParseDeclarationAttributes,org.jsoup.parser.XmlTreeBuilderTest.testSupplyParserToDataStream,org.jsoup.parser.XmlTreeBuilderTest.testDoesHandleEOFInTag"
+Jsoup_52,DataUtil_3.java,3,0,None
+Jsoup_52,DataUtil_1.java,1,0,None
+Jsoup_52,XmlTreeBuilder_1.java,1,12,"org.jsoup.parser.XmlTreeBuilderTest.testPopToClose,org.jsoup.parser.XmlTreeBuilderTest.handlesXmlDeclarationAsDeclaration,org.jsoup.parser.XmlTreeBuilderTest.testSupplyParserToJsoupClass,org.jsoup.parser.XmlTreeBuilderTest.testDoesNotForceSelfClosingKnownTags,org.jsoup.parser.XmlTreeBuilderTest.testCommentAndDocType,org.jsoup.parser.XmlTreeBuilderTest.testSimpleXmlParse,org.jsoup.parser.XmlTreeBuilderTest.xmlFragment,org.jsoup.parser.XmlTreeBuilderTest.testDetectCharsetEncodingDeclaration,org.jsoup.parser.XmlTreeBuilderTest.testParseDeclarationAttributes,org.jsoup.parser.XmlTreeBuilderTest.testSupplyParserToDataStream,org.jsoup.parser.XmlTreeBuilderTest.xmlParseDefaultsToHtmlOutputSyntax,org.jsoup.parser.XmlTreeBuilderTest.testDoesHandleEOFInTag"
+Jsoup_52,XmlDeclaration_1.java,1,7,"org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlNoCharset,org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlIso8859,org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlUtf8,org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlDisabledNoChanges,org.jsoup.parser.XmlTreeBuilderTest.handlesXmlDeclarationAsDeclaration,org.jsoup.parser.XmlTreeBuilderTest.testDetectCharsetEncodingDeclaration,org.jsoup.parser.XmlTreeBuilderTest.testParseDeclarationAttributes"

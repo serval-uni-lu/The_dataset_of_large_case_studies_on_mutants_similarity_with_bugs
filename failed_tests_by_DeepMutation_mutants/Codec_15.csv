@@ -1,0 +1,7 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Codec_15,Soundex_2.java,2,0,None
+Codec_15,Soundex_3.java,3,0,None
+Codec_15,Soundex_1.java,1,0,None
+Codec_15,Soundex_6.java,6,0,None
+Codec_15,Soundex_4.java,4,0,None
+Codec_15,Soundex_5.java,5,19,"org.apache.commons.codec.language.SoundexTest.testWikipediaAmericanSoundex,org.apache.commons.codec.language.SoundexTest.testBadCharacters,org.apache.commons.codec.language.SoundexTest.testMsSqlServer1,org.apache.commons.codec.language.SoundexTest.testMsSqlServer2,org.apache.commons.codec.language.SoundexTest.testMsSqlServer3,org.apache.commons.codec.language.SoundexTest.testB650,org.apache.commons.codec.language.SoundexTest.testEncodeBatch2,org.apache.commons.codec.language.SoundexTest.testEncodeBatch3,org.apache.commons.codec.language.SoundexTest.testEncodeBatch4,org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreHyphens,org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreTrimmable,org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreApostrophes,org.apache.commons.codec.language.SoundexTest.testDifference,org.apache.commons.codec.language.SoundexTest.testEncodeBasic,org.apache.commons.codec.language.SoundexTest.testUsMappingEWithAcute,org.apache.commons.codec.language.SoundexTest.testUsMappingOWithDiaeresis,org.apache.commons.codec.language.SoundexTest.testHWRuleEx1,org.apache.commons.codec.language.SoundexTest.testHWRuleEx2,org.apache.commons.codec.language.SoundexTest.testHWRuleEx3"

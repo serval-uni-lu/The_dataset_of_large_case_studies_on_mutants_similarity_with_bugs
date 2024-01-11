@@ -1,0 +1,11 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonCore_13,JsonGeneratorImpl_6.java,6,0,None
+JacksonCore_13,JsonGeneratorImpl_2.java,2,0,None
+JacksonCore_13,JsonGeneratorImpl_9.java,9,0,None
+JacksonCore_13,JsonGeneratorImpl_8.java,8,0,None
+JacksonCore_13,JsonGeneratorImpl_3.java,3,4,"com.fasterxml.jackson.core.json.TestCustomEscaping.testEscapeCustomWithReader,com.fasterxml.jackson.core.json.TestCustomEscaping.testEscapeCustomWithUTF8Stream,com.fasterxml.jackson.core.main.TestGeneratorObject.testConvenienceMethods,com.fasterxml.jackson.core.main.TestGeneratorObject.testConvenienceMethodsWithNulls"
+JacksonCore_13,JsonGeneratorImpl_5.java,5,0,None
+JacksonCore_13,JsonGeneratorImpl_7.java,7,0,None
+JacksonCore_13,JsonGeneratorImpl_1.java,1,0,None
+JacksonCore_13,JsonGeneratorImpl_10.java,10,0,None
+JacksonCore_13,JsonGeneratorImpl_4.java,4,0,None

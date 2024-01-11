@@ -1,0 +1,12 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_9,Line_3.java,3,0,None
+Math_9,Line_4.java,4,0,None
+Math_9,Line_7.java,7,-1,None
+Math_9,Line_11.java,11,0,None
+Math_9,Line_6.java,6,0,None
+Math_9,Line_1.java,1,10,"org.apache.commons.math3.geometry.euclidean.threed.LineTest.testContains,org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert,org.apache.commons.math3.geometry.euclidean.threed.LineTest.testSimilar,org.apache.commons.math3.geometry.euclidean.threed.PlaneTest.testIntersection,org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testBox,org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testCross,org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testBuildBox,org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testTetrahedron,org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testIsometry,org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testIssue780"
+Math_9,Line_10.java,10,0,None
+Math_9,Line_2.java,2,0,None
+Math_9,Line_8.java,8,1,"org.apache.commons.math3.geometry.euclidean.threed.LineTest.testSimilar"
+Math_9,Line_9.java,9,0,None
+Math_9,Line_5.java,5,0,None

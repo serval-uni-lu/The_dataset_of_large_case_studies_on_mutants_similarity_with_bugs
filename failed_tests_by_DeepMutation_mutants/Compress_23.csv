@@ -1,0 +1,12 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_23,Coders_5.java,5,0,None
+Compress_23,Coders_11.java,11,0,None
+Compress_23,Coders_7.java,7,0,None
+Compress_23,Coders_3.java,3,2,"org.apache.commons.compress.archivers.SevenZTestCase.testSevenZArchiveCreationUsingCopy,org.apache.commons.compress.archivers.sevenz.SevenZFileTest.testHelloWorldHeaderCompressionOffCopy"
+Compress_23,Coders_1.java,1,0,None
+Compress_23,Coders_9.java,9,0,None
+Compress_23,Coders_10.java,10,0,None
+Compress_23,Coders_6.java,6,0,None
+Compress_23,Coders_2.java,2,0,None
+Compress_23,Coders_4.java,4,-1,None
+Compress_23,Coders_8.java,8,1,"org.apache.commons.compress.archivers.SevenZTestCase.testSevenZArchiveCreationUsingCopy"

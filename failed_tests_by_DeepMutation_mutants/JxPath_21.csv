@@ -1,0 +1,14 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JxPath_21,PropertyPointer_7.java,7,-1,None
+JxPath_21,PropertyPointer_12.java,12,-1,None
+JxPath_21,PropertyPointer_3.java,3,0,None
+JxPath_21,PropertyPointer_9.java,9,-1,None
+JxPath_21,PropertyPointer_13.java,13,-1,None
+JxPath_21,PropertyPointer_4.java,4,6,"org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoStepNoPredicatesPropertyOwner,org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoPredicateName,org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoStepPredicatesPropertyOwner,org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoPredicatesStandard,org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoPredicateIndex,org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest.testAxisAttribute"
+JxPath_21,PropertyPointer_2.java,2,0,None
+JxPath_21,PropertyPointer_6.java,6,0,None
+JxPath_21,PropertyPointer_11.java,11,0,None
+JxPath_21,PropertyPointer_10.java,10,-1,None
+JxPath_21,PropertyPointer_8.java,8,-1,None
+JxPath_21,PropertyPointer_5.java,5,0,None
+JxPath_21,PropertyPointer_1.java,1,0,None

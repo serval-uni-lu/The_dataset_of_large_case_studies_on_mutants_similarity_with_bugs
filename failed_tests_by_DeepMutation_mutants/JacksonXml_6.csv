@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonXml_6,ToXmlGenerator_5.java,5,-1,None
+JacksonXml_6,ToXmlGenerator_3.java,3,-1,None
+JacksonXml_6,ToXmlGenerator_7.java,7,-1,None
+JacksonXml_6,ToXmlGenerator_4.java,4,-1,None
+JacksonXml_6,ToXmlGenerator_2.java,2,-1,None
+JacksonXml_6,ToXmlGenerator_1.java,1,-1,None
+JacksonXml_6,ToXmlGenerator_9.java,9,-1,None
+JacksonXml_6,ToXmlGenerator_6.java,6,-1,None
+JacksonXml_6,ToXmlGenerator_8.java,8,-1,None

@@ -1,0 +1,12 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_12,TarArchiveInputStream_2.java,2,-1,None
+Compress_12,TarArchiveInputStream_11.java,11,0,None
+Compress_12,TarArchiveInputStream_5.java,5,0,None
+Compress_12,TarArchiveInputStream_1.java,1,0,None
+Compress_12,TarArchiveInputStream_3.java,3,0,None
+Compress_12,TarArchiveInputStream_8.java,8,0,None
+Compress_12,TarArchiveInputStream_6.java,6,0,None
+Compress_12,TarArchiveInputStream_7.java,7,0,None
+Compress_12,TarArchiveInputStream_9.java,9,0,None
+Compress_12,TarArchiveInputStream_4.java,4,0,None
+Compress_12,TarArchiveInputStream_10.java,10,0,None

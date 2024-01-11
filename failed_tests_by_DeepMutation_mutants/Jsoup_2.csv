@@ -1,0 +1,6 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_2,Parser_1.java,1,1,"org.jsoup.parser.ParserTest.handlesCdata"
+Jsoup_2,Parser_3.java,3,0,None
+Jsoup_2,Parser_5.java,5,0,None
+Jsoup_2,Parser_4.java,4,0,None
+Jsoup_2,Parser_2.java,2,0,None

@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_3,MathArrays_9.java,9,0,None
+Math_3,MathArrays_6.java,6,0,None
+Math_3,MathArrays_2.java,2,0,None
+Math_3,MathArrays_8.java,8,0,None
+Math_3,MathArrays_1.java,1,0,None
+Math_3,MathArrays_3.java,3,0,None
+Math_3,MathArrays_5.java,5,0,None
+Math_3,MathArrays_4.java,4,0,None
+Math_3,MathArrays_7.java,7,-1,None

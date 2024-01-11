@@ -1,0 +1,3 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_11,MultivariateNormalDistribution_2.java,2,1,"org.apache.commons.math3.distribution.MultivariateNormalDistributionTest.testGetCovarianceMatrix"
+Math_11,MultivariateNormalDistribution_1.java,1,0,None

@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_53,DateUtils_2.java,2,0,None
+Lang_53,DateUtils_12.java,12,1,"org.apache.commons.lang.time.DateUtilsTest.testAddHours"
+Lang_53,DateUtils_8.java,8,0,None
+Lang_53,DateUtils_3.java,3,1,"org.apache.commons.lang.time.DateUtilsTest.testAddWeeks"
+Lang_53,DateUtils_9.java,9,0,None
+Lang_53,DateUtils_10.java,10,-1,None
+Lang_53,DateUtils_4.java,4,1,"org.apache.commons.lang.time.DateUtilsTest.testAddMinutes"
+Lang_53,DateUtils_1.java,1,0,None
+Lang_53,DateUtils_7.java,7,1,"org.apache.commons.lang.time.DateUtilsTest.testAddDays"
+Lang_53,DateUtils_11.java,11,1,"org.apache.commons.lang.time.DateUtilsTest.testAddSeconds"
+Lang_53,DateUtils_6.java,6,0,None
+Lang_53,DateUtils_5.java,5,1,"org.apache.commons.lang.time.DateUtilsTest.testAddYears"

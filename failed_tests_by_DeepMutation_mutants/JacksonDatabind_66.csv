@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonDatabind_66,StdKeyDeserializer_9.java,9,-1,None
+JacksonDatabind_66,StdKeyDeserializer_4.java,4,-1,None
+JacksonDatabind_66,StdKeyDeserializer_1.java,1,-1,None
+JacksonDatabind_66,StdKeyDeserializer_3.java,3,-1,None
+JacksonDatabind_66,StdKeyDeserializer_6.java,6,-1,None
+JacksonDatabind_66,StdKeyDeserializer_7.java,7,-1,None
+JacksonDatabind_66,StdKeyDeserializer_2.java,2,-1,None
+JacksonDatabind_66,StdKeyDeserializer_8.java,8,-1,None
+JacksonDatabind_66,StdKeyDeserializer_5.java,5,-1,None

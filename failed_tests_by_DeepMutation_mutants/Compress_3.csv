@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_3,TarArchiveOutputStream_7.java,7,0,None
+Compress_3,TarArchiveOutputStream_4.java,4,0,None
+Compress_3,TarArchiveOutputStream_5.java,5,0,None
+Compress_3,TarArchiveOutputStream_2.java,2,0,None
+Compress_3,TarArchiveOutputStream_6.java,6,1,"org.apache.commons.compress.archivers.ArchiveOutputStreamTest.testFinish"
+Compress_3,TarArchiveOutputStream_3.java,3,0,None
+Compress_3,TarArchiveOutputStream_1.java,1,0,None

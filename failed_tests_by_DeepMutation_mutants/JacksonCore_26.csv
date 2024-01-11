@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonCore_26,NonBlockingJsonParser_7.java,7,-1,None
+JacksonCore_26,NonBlockingJsonParser_5.java,5,-1,None
+JacksonCore_26,NonBlockingJsonParser_2.java,2,-1,None
+JacksonCore_26,NonBlockingJsonParser_1.java,1,-1,None
+JacksonCore_26,NonBlockingJsonParser_6.java,6,-1,None
+JacksonCore_26,NonBlockingJsonParser_3.java,3,-1,None
+JacksonCore_26,NonBlockingJsonParser_4.java,4,-1,None
+JacksonCore_26,NonBlockingJsonParser_8.java,8,-1,None

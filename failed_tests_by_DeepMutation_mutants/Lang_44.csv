@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_44,NumberUtils_8.java,8,0,None
+Lang_44,NumberUtils_1.java,1,2,"org.apache.commons.lang.NumberUtilsTest.testStringToIntStringI,org.apache.commons.lang.NumberUtilsTest.testStringToIntString"
+Lang_44,NumberUtils_11.java,11,0,None
+Lang_44,NumberUtils_4.java,4,0,None
+Lang_44,NumberUtils_12.java,12,0,None
+Lang_44,NumberUtils_7.java,7,0,None
+Lang_44,NumberUtils_5.java,5,0,None
+Lang_44,NumberUtils_2.java,2,0,None
+Lang_44,NumberUtils_6.java,6,0,None
+Lang_44,NumberUtils_3.java,3,0,None
+Lang_44,NumberUtils_9.java,9,0,None
+Lang_44,NumberUtils_10.java,10,0,None

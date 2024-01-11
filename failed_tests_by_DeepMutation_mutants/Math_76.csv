@@ -1,0 +1,14 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_76,SingularValueDecompositionImpl_9.java,9,0,None
+Math_76,SingularValueDecompositionImpl_4.java,4,-1,None
+Math_76,SingularValueDecompositionImpl_11.java,11,0,None
+Math_76,SingularValueDecompositionImpl_7.java,7,0,None
+Math_76,SingularValueDecompositionImpl_1.java,1,-1,None
+Math_76,SingularValueDecompositionImpl_3.java,3,0,None
+Math_76,SingularValueDecompositionImpl_5.java,5,7,"org.apache.commons.math.linear.SingularValueDecompositionImplTest.testDimensions,org.apache.commons.math.linear.SingularValueDecompositionImplTest.testAEqualUSVt,org.apache.commons.math.linear.SingularValueDecompositionImplTest.testMatricesValues1,org.apache.commons.math.linear.SingularValueDecompositionImplTest.testMatricesValues2,org.apache.commons.math.linear.SingularValueSolverTest.testTruncated,org.apache.commons.math.linear.SingularValueSolverTest.testMath320A,org.apache.commons.math.linear.SingularValueSolverTest.testMath320B"
+Math_76,SingularValueDecompositionImpl_2.java,2,0,None
+Math_76,SingularValueDecompositionImpl_10.java,10,0,None
+Math_76,SingularValueDecompositionImpl_8.java,8,0,None
+Math_76,SingularValueDecompositionImpl_12.java,12,0,None
+Math_76,SingularValueDecompositionImpl_6.java,6,0,None
+Math_76,SingularValueDecompositionImpl_13.java,13,-1,None

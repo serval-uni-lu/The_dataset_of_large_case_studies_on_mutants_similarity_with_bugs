@@ -1,0 +1,5 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_68,LevenbergMarquardtOptimizer_3.java,3,0,None
+Math_68,LevenbergMarquardtOptimizer_4.java,4,0,None
+Math_68,LevenbergMarquardtOptimizer_1.java,1,0,None
+Math_68,LevenbergMarquardtOptimizer_2.java,2,0,None

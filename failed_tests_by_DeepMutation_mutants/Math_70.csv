@@ -1,0 +1,4 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_70,BisectionSolver_3.java,3,0,None
+Math_70,BisectionSolver_1.java,1,0,None
+Math_70,BisectionSolver_2.java,2,0,None

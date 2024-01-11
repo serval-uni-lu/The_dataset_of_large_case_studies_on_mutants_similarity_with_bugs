@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_2,HypergeometricDistribution_2.java,2,0,None
+Math_2,HypergeometricDistribution_5.java,5,5,"org.apache.commons.math3.distribution.HypergeometricDistributionTest.testDegenerateNoSuccesses,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testDegenerateFullSample,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testInverseCumulativeProbabilities,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testSampling,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testConsistencyAtSupportBounds"
+Math_2,HypergeometricDistribution_6.java,6,-1,None
+Math_2,HypergeometricDistribution_11.java,11,0,None
+Math_2,HypergeometricDistribution_7.java,7,0,None
+Math_2,HypergeometricDistribution_9.java,9,0,None
+Math_2,HypergeometricDistribution_12.java,12,0,None
+Math_2,HypergeometricDistribution_8.java,8,0,None
+Math_2,HypergeometricDistribution_4.java,4,0,None
+Math_2,HypergeometricDistribution_1.java,1,8,"org.apache.commons.math3.distribution.HypergeometricDistributionTest.testLargeValues,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testDegenerateNoFailures,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testMath644,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testMoreLargeValues,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testDensities,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testInverseCumulativeProbabilities,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testSampling,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testCumulativeProbabilities"
+Math_2,HypergeometricDistribution_3.java,3,0,None
+Math_2,HypergeometricDistribution_10.java,10,3,"org.apache.commons.math3.distribution.HypergeometricDistributionTest.testMoments,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testInverseCumulativeProbabilities,org.apache.commons.math3.distribution.HypergeometricDistributionTest.testSampling"

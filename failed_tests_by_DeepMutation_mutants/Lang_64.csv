@@ -1,0 +1,3 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_64,ValuedEnum_2.java,2,1,"org.apache.commons.lang.enums.ValuedEnumTest.testToString"
+Lang_64,ValuedEnum_1.java,1,0,None

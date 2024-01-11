@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_1,Document_2.java,2,0,None
+Jsoup_1,Document_6.java,6,-1,None
+Jsoup_1,Document_4.java,4,1,"org.jsoup.nodes.DocumentTest.setTextPreservesDocumentStructure"
+Jsoup_1,Document_1.java,1,0,None
+Jsoup_1,Document_3.java,3,0,None
+Jsoup_1,Document_5.java,5,0,None
+Jsoup_1,Document_7.java,7,1,"org.jsoup.nodes.ElementTest.testOuterHtml"

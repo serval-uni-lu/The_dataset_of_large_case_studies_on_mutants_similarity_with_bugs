@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_20,CMAESOptimizer_6.java,6,-1,None
+Math_20,CMAESOptimizer_4.java,4,-1,None
+Math_20,CMAESOptimizer_5.java,5,-1,None
+Math_20,CMAESOptimizer_7.java,7,-1,None
+Math_20,CMAESOptimizer_9.java,9,-1,None
+Math_20,CMAESOptimizer_1.java,1,-1,None
+Math_20,CMAESOptimizer_2.java,2,-1,None
+Math_20,CMAESOptimizer_3.java,3,-1,None
+Math_20,CMAESOptimizer_8.java,8,-1,None

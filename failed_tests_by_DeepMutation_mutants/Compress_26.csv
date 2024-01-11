@@ -1,0 +1,5 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_26,IOUtils_2.java,2,3,"org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest.testReadingOfFirstStoredEntry,org.apache.commons.compress.archivers.zip.ZipFileTest.testReadingOfFirstStoredEntry,org.apache.commons.compress.archivers.zip.ZipFileTest.testUnixSymlinkSampleFile"
+Compress_26,IOUtils_3.java,3,0,None
+Compress_26,IOUtils_4.java,4,-1,None
+Compress_26,IOUtils_1.java,1,0,None

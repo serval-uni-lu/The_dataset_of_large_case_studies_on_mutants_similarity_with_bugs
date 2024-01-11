@@ -1,0 +1,7 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_102,ChiSquareTestImpl_3.java,3,-1,None
+Math_102,ChiSquareTestImpl_5.java,5,-1,None
+Math_102,ChiSquareTestImpl_4.java,4,-1,None
+Math_102,ChiSquareTestImpl_1.java,1,-1,None
+Math_102,ChiSquareTestImpl_6.java,6,-1,None
+Math_102,ChiSquareTestImpl_2.java,2,-1,None

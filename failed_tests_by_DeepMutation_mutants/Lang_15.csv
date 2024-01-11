@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_15,TypeUtils_6.java,6,-1,None
+Lang_15,TypeUtils_2.java,2,-1,None
+Lang_15,TypeUtils_3.java,3,0,None
+Lang_15,TypeUtils_7.java,7,-1,None
+Lang_15,TypeUtils_4.java,4,-1,None
+Lang_15,TypeUtils_5.java,5,-1,None
+Lang_15,TypeUtils_1.java,1,0,None

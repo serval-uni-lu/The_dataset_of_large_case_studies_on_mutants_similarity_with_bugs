@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_24,TokeniserState_2.java,2,2,"org.jsoup.parser.HtmlParserTest.handlesQuotesInCommentsInScripts,org.jsoup.parser.HtmlParserTest.handlesEscapedScript"
+Jsoup_24,TokeniserState_3.java,3,2,"org.jsoup.parser.HtmlParserTest.handlesQuotesInCommentsInScripts,org.jsoup.parser.HtmlParserTest.handlesEscapedScript"
+Jsoup_24,TokeniserState_6.java,6,1,"org.jsoup.parser.HtmlParserTest.handlesUnclosedRawtextAtEof"
+Jsoup_24,TokeniserState_5.java,5,1,"org.jsoup.parser.HtmlParserTest.handlesQuotesInCommentsInScripts"
+Jsoup_24,TokeniserState_7.java,7,1,"org.jsoup.parser.HtmlParserTest.handlesUnclosedTitleAtEof"
+Jsoup_24,TokeniserState_1.java,1,1,"org.jsoup.parser.HtmlParserTest.handlesCdata"
+Jsoup_24,TokeniserState_4.java,4,1,"org.jsoup.parser.HtmlParserTest.handlesUnclosedScriptAtEof"

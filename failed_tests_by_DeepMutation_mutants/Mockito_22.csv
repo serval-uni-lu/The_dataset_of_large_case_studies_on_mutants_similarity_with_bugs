@@ -1,0 +1,4 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Mockito_22,Equality_3.java,3,-1,None
+Mockito_22,Equality_1.java,1,-1,None
+Mockito_22,Equality_2.java,2,2,"org.mockito.internal.matchers.EqualityTest.shouldKnowIfObjectsAreEqual,org.mockito.internal.matchers.EqualsTest.shouldArraysBeEqual"

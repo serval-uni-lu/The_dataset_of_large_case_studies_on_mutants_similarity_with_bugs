@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_43,ExtendedMessageFormat_6.java,6,0,None
+Lang_43,ExtendedMessageFormat_4.java,4,0,None
+Lang_43,ExtendedMessageFormat_5.java,5,0,None
+Lang_43,ExtendedMessageFormat_1.java,1,-1,None
+Lang_43,ExtendedMessageFormat_2.java,2,6,"org.apache.commons.lang.text.ExtendedMessageFormatTest.testBuiltInDateTimeFormat,org.apache.commons.lang.text.ExtendedMessageFormatTest.testOverriddenBuiltinFormat,org.apache.commons.lang.text.ExtendedMessageFormatTest.testBuiltInChoiceFormat,org.apache.commons.lang.text.ExtendedMessageFormatTest.testExtendedFormats,org.apache.commons.lang.text.ExtendedMessageFormatTest.testExtendedAndBuiltInFormats,org.apache.commons.lang.text.ExtendedMessageFormatTest.testBuiltInNumberFormat"
+Lang_43,ExtendedMessageFormat_7.java,7,0,None
+Lang_43,ExtendedMessageFormat_3.java,3,0,None

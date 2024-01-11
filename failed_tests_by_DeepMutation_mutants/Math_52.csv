@@ -1,0 +1,7 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_52,Rotation_1.java,1,2,"org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639,org.apache.commons.math.geometry.euclidean.threed.RotationTest.testQuaternion"
+Math_52,Rotation_3.java,3,-1,None
+Math_52,Rotation_4.java,4,2,"org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639,org.apache.commons.math.geometry.euclidean.threed.RotationTest.testQuaternion"
+Math_52,Rotation_2.java,2,0,None
+Math_52,Rotation_6.java,6,2,"org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639,org.apache.commons.math.geometry.euclidean.threed.RotationTest.testQuaternion"
+Math_52,Rotation_5.java,5,2,"org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639,org.apache.commons.math.geometry.euclidean.threed.RotationTest.testQuaternion"

@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonDatabind_40,NumberDeserializers_9.java,9,-1,None
+JacksonDatabind_40,NumberDeserializers_11.java,11,-1,None
+JacksonDatabind_40,NumberDeserializers_7.java,7,-1,None
+JacksonDatabind_40,NumberDeserializers_6.java,6,-1,None
+JacksonDatabind_40,NumberDeserializers_1.java,1,-1,None
+JacksonDatabind_40,NumberDeserializers_14.java,14,-1,None
+JacksonDatabind_40,NumberDeserializers_12.java,12,-1,None
+JacksonDatabind_40,NumberDeserializers_4.java,4,-1,None
+JacksonDatabind_40,NumberDeserializers_5.java,5,-1,None
+JacksonDatabind_40,NumberDeserializers_15.java,15,-1,None
+JacksonDatabind_40,NumberDeserializers_8.java,8,-1,None
+JacksonDatabind_40,NumberDeserializers_13.java,13,-1,None
+JacksonDatabind_40,NumberDeserializers_10.java,10,-1,None
+JacksonDatabind_40,NumberDeserializers_3.java,3,-1,None
+JacksonDatabind_40,NumberDeserializers_2.java,2,-1,None

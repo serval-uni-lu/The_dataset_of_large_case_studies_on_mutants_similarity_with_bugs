@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Cli_38,DefaultParser_6.java,6,0,None
+Cli_38,DefaultParser_2.java,2,4,"org.apache.commons.cli.DefaultParserTest.testPropertyOverrideValues,org.apache.commons.cli.DefaultParserTest.testUnlimitedArgs,org.apache.commons.cli.bug.BugCLI265Test.shouldParseShortOptionWithoutValue,org.apache.commons.cli.bug.BugCLI265Test.shouldParseConcatenatedShortOptions"
+Cli_38,DefaultParser_4.java,4,0,None
+Cli_38,DefaultParser_3.java,3,0,None
+Cli_38,DefaultParser_8.java,8,0,None
+Cli_38,DefaultParser_9.java,9,6,"org.apache.commons.cli.DefaultParserTest.testAmbiguousLongWithoutEqualSingleDash,org.apache.commons.cli.DefaultParserTest.testPropertyOverrideValues,org.apache.commons.cli.DefaultParserTest.testUnlimitedArgs,org.apache.commons.cli.DefaultParserTest.testPropertiesOption2,org.apache.commons.cli.bug.BugCLI265Test.shouldParseShortOptionWithoutValue,org.apache.commons.cli.bug.BugCLI265Test.shouldParseConcatenatedShortOptions"
+Cli_38,DefaultParser_1.java,1,10,"org.apache.commons.cli.DefaultParserTest.testSimpleLong,org.apache.commons.cli.DefaultParserTest.testOptionGroupLong,org.apache.commons.cli.DefaultParserTest.testLongWithoutEqualDoubleDash,org.apache.commons.cli.DefaultParserTest.testMultipleWithLong,org.apache.commons.cli.DefaultParserTest.testAmbiguousPartialLongOption1,org.apache.commons.cli.DefaultParserTest.testSingleDash,org.apache.commons.cli.DefaultParserTest.testUnambiguousPartialLongOption1,org.apache.commons.cli.DefaultParserTest.testDoubleDash1,org.apache.commons.cli.bug.BugCLI252Test.testAmbiquousOptionName,org.apache.commons.cli.bug.BugCLI252Test.testExactOptionNameMatch"
+Cli_38,DefaultParser_5.java,5,-1,None
+Cli_38,DefaultParser_7.java,7,-1,None

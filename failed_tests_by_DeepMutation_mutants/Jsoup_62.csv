@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_62,HtmlTreeBuilderState_10.java,10,-1,None
+Jsoup_62,HtmlTreeBuilderState_4.java,4,0,None
+Jsoup_62,HtmlTreeBuilderState_14.java,14,22,"org.jsoup.helper.DataUtilTest.discardsSpuriousByteOrderMarkWhenNoCharsetSet,org.jsoup.helper.DataUtilTest.discardsSpuriousByteOrderMark,org.jsoup.helper.DataUtilTest.supportsBOMinFiles,org.jsoup.helper.W3CDomTest.simpleConversion,org.jsoup.helper.W3CDomTest.namespacePreservation,org.jsoup.integration.ParseTest.testYahooJp,org.jsoup.integration.ParseTest.testBaiduVariant,org.jsoup.integration.ParseTest.testGoogleSearchIpod,org.jsoup.integration.ParseTest.testBaidu,org.jsoup.integration.ParseTest.testSmhBizArticle,org.jsoup.integration.ParseTest.testNewsHomepage,org.jsoup.nodes.DocumentTest.testHtmlAppendable,org.jsoup.nodes.DocumentTest.testClonesDeclarations,org.jsoup.nodes.DocumentTest.testClone,org.jsoup.nodes.DocumentTest.testTitles,org.jsoup.nodes.ElementTest.testFormatOutline,org.jsoup.nodes.ElementTest.testFormatHtml,org.jsoup.nodes.ElementTest.testContainerOutput,org.jsoup.parser.HtmlParserTest.createsDocumentStructure,org.jsoup.parser.HtmlParserTest.handlesUnclosedTitle,org.jsoup.parser.HtmlParserTest.ignoresContentAfterFrameset,org.jsoup.parser.HtmlParserTest.handlesUnclosedTitleAtEof"
+Jsoup_62,HtmlTreeBuilderState_13.java,13,5,"org.jsoup.helper.W3CDomTest.namespacePreservation,org.jsoup.nodes.ElementTest.testNoIndentOnScriptAndStyle,org.jsoup.nodes.ElementTest.testGetDataNodes,org.jsoup.parser.HtmlParserTest.handlesDataOnlyTags,org.jsoup.parser.HtmlParserTest.handlesUnclosedRawtextAtEof"
+Jsoup_62,HtmlTreeBuilderState_7.java,7,0,None
+Jsoup_62,HtmlTreeBuilderState_2.java,2,0,None
+Jsoup_62,HtmlTreeBuilderState_15.java,15,0,None
+Jsoup_62,HtmlTreeBuilderState_5.java,5,0,None
+Jsoup_62,HtmlTreeBuilderState_8.java,8,0,None
+Jsoup_62,HtmlTreeBuilderState_11.java,11,-1,None
+Jsoup_62,HtmlTreeBuilderState_3.java,3,0,None
+Jsoup_62,HtmlTreeBuilderState_1.java,1,0,None
+Jsoup_62,HtmlTreeBuilderState_12.java,12,-1,None
+Jsoup_62,HtmlTreeBuilderState_6.java,6,0,None
+Jsoup_62,HtmlTreeBuilderState_9.java,9,0,None

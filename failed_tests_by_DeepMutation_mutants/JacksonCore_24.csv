@@ -1,0 +1,15 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonCore_24,ParserMinimalBase_1.java,1,-1,None
+JacksonCore_24,ParserBase_1.java,1,-1,None
+JacksonCore_24,ParserBase_7.java,7,-1,None
+JacksonCore_24,ParserBase_8.java,8,-1,None
+JacksonCore_24,ParserBase_9.java,9,-1,None
+JacksonCore_24,ParserBase_3.java,3,-1,None
+JacksonCore_24,ParserMinimalBase_2.java,2,-1,None
+JacksonCore_24,ParserBase_2.java,2,-1,None
+JacksonCore_24,ParserMinimalBase_3.java,3,-1,None
+JacksonCore_24,ParserBase_6.java,6,-1,None
+JacksonCore_24,ParserBase_4.java,4,-1,None
+JacksonCore_24,ParserBase_5.java,5,-1,None
+JacksonCore_24,ParserMinimalBase_4.java,4,-1,None
+JacksonCore_24,ParserBase_10.java,10,-1,None

@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_21,QueryParser_8.java,8,0,None
+Jsoup_21,QueryParser_3.java,3,-1,None
+Jsoup_21,QueryParser_5.java,5,0,None
+Jsoup_21,QueryParser_1.java,1,0,None
+Jsoup_21,QueryParser_6.java,6,0,None
+Jsoup_21,CombiningEvaluator_2.java,2,0,None
+Jsoup_21,QueryParser_9.java,9,0,None
+Jsoup_21,QueryParser_2.java,2,0,None
+Jsoup_21,QueryParser_4.java,4,0,None
+Jsoup_21,QueryParser_10.java,10,0,None
+Jsoup_21,CombiningEvaluator_4.java,4,-1,None
+Jsoup_21,CombiningEvaluator_1.java,1,11,"org.jsoup.integration.ParseTest.testBaiduVariant,org.jsoup.integration.ParseTest.testBaidu,org.jsoup.integration.ParseTest.testHtml5Charset,org.jsoup.nodes.ElementTest.testGetElementsWithAttributeDash,org.jsoup.parser.HtmlParserTest.handlesUnclosedDefinitionLists,org.jsoup.select.ElementsTest.val,org.jsoup.select.SelectorTest.handlesCommasInSelector,org.jsoup.select.SelectorTest.testGroupOr,org.jsoup.select.SelectorTest.testGroupOrAttribute,org.jsoup.select.SelectorTest.testPseudoHas,org.jsoup.select.SelectorTest.mixCombinatorGroup"
+Jsoup_21,CombiningEvaluator_3.java,3,0,None
+Jsoup_21,CombiningEvaluator_5.java,5,0,None
+Jsoup_21,QueryParser_7.java,7,0,None

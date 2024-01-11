@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_9,TarArchiveOutputStream_7.java,7,-1,None
+Compress_9,TarArchiveOutputStream_4.java,4,0,None
+Compress_9,TarArchiveOutputStream_5.java,5,0,None
+Compress_9,TarArchiveOutputStream_2.java,2,0,None
+Compress_9,TarArchiveOutputStream_6.java,6,-1,None
+Compress_9,TarArchiveOutputStream_3.java,3,0,None
+Compress_9,TarArchiveOutputStream_1.java,1,0,None
+Compress_9,TarArchiveOutputStream_8.java,8,0,None

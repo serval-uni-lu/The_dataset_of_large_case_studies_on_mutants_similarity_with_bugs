@@ -1,0 +1,15 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_52,StringEscapeUtils_7.java,7,6,"org.apache.commons.lang.StringEscapeUtilsTest.testUnescapeHtml,org.apache.commons.lang.StringEscapeUtilsTest.testStandaloneAmphersand,org.apache.commons.lang.StringEscapeUtilsTest.testLang313,org.apache.commons.lang.StringEscapeUtilsTest.testUnescapeHexCharsHtml,org.apache.commons.lang.StringEscapeUtilsTest.testEscapeHtmlVersions,org.apache.commons.lang.StringEscapeUtilsTest.testUnescapeUnknownEntity"
+Lang_52,StringEscapeUtils_5.java,5,2,"org.apache.commons.lang.StringEscapeUtilsTest.testEscapeHtml,org.apache.commons.lang.StringEscapeUtilsTest.testEscapeHtmlVersions"
+Lang_52,StringEscapeUtils_1.java,1,0,None
+Lang_52,StringEscapeUtils_12.java,12,0,None
+Lang_52,StringEscapeUtils_10.java,10,0,None
+Lang_52,StringEscapeUtils_4.java,4,0,None
+Lang_52,StringEscapeUtils_8.java,8,0,None
+Lang_52,StringEscapeUtils_11.java,11,0,None
+Lang_52,StringEscapeUtils_3.java,3,0,None
+Lang_52,StringEscapeUtils_6.java,6,1,"org.apache.commons.lang.StringEscapeUtilsTest.testEscapeXml"
+Lang_52,StringEscapeUtils_14.java,14,1,"org.apache.commons.lang.StringEscapeUtilsTest.testEscapeXml"
+Lang_52,StringEscapeUtils_2.java,2,1,"org.apache.commons.lang.StringEscapeUtilsTest.testEscapeXml"
+Lang_52,StringEscapeUtils_9.java,9,1,"org.apache.commons.lang.StringEscapeUtilsTest.testEscapeXml"
+Lang_52,StringEscapeUtils_13.java,13,0,None

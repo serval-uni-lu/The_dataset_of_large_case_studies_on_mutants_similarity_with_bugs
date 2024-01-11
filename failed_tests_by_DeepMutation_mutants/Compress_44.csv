@@ -1,0 +1,5 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_44,ChecksumCalculatingInputStream_3.java,3,2,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_2.java,2,0,None
+Compress_44,ChecksumCalculatingInputStream_1.java,1,0,None
+Compress_44,ChecksumCalculatingInputStream_4.java,4,-1,None

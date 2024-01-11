@@ -1,0 +1,11 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Time_10,BaseSingleFieldPeriod_5.java,5,1,"org.joda.time.TestBaseSingleFieldPeriod.testEqualsHashCode"
+Time_10,BaseSingleFieldPeriod_6.java,6,1,"org.joda.time.TestBaseSingleFieldPeriod.testGetSetValue"
+Time_10,BaseSingleFieldPeriod_7.java,7,3,"org.joda.time.TestBaseSingleFieldPeriod.testGet,org.joda.time.TestPeriod_Basics.testMinus,org.joda.time.TestPeriod_Basics.testPlus"
+Time_10,BaseSingleFieldPeriod_8.java,8,-1,None
+Time_10,BaseSingleFieldPeriod_9.java,9,1,"org.joda.time.TestBaseSingleFieldPeriod.testToPeriod"
+Time_10,BaseSingleFieldPeriod_2.java,2,1,"org.joda.time.TestBaseSingleFieldPeriod.testIsSupported"
+Time_10,BaseSingleFieldPeriod_10.java,10,1,"org.joda.time.TestBaseSingleFieldPeriod.testToMutablePeriod"
+Time_10,BaseSingleFieldPeriod_3.java,3,0,None
+Time_10,BaseSingleFieldPeriod_1.java,1,-1,None
+Time_10,BaseSingleFieldPeriod_4.java,4,23,"org.joda.time.TestBaseSingleFieldPeriod.testToPeriod,org.joda.time.TestBaseSingleFieldPeriod.testValueIndexMethods,org.joda.time.TestBaseSingleFieldPeriod.testToMutablePeriod,org.joda.time.TestBaseSingleFieldPeriod.testFactory_between_RPartial,org.joda.time.TestBaseSingleFieldPeriod.testFieldTypeIndexMethods,org.joda.time.TestDays.testFactory_daysBetween_RPartial_YearMonth,org.joda.time.TestDays.testFactory_daysBetween_RPartial_MonthDay,org.joda.time.TestDays.testFactory_daysBetween_RPartial_LocalDate,org.joda.time.TestDays.testAddToLocalDate,org.joda.time.TestHours.testFactory_hoursBetween_RPartial,org.joda.time.TestHours.testAddToLocalDate,org.joda.time.TestMinutes.testFactory_minutesBetween_RPartial,org.joda.time.TestMinutes.testAddToLocalDate,org.joda.time.TestMonths.testFactory_monthsBetween_RPartial_MonthDay,org.joda.time.TestMonths.testFactory_monthsBetween_RPartial_YearMonth,org.joda.time.TestMonths.testFactory_monthsBetween_RPartial_LocalDate,org.joda.time.TestMonths.testAddToLocalDate,org.joda.time.TestSeconds.testFactory_secondsBetween_RPartial,org.joda.time.TestSeconds.testAddToLocalDate,org.joda.time.TestWeeks.testFactory_weeksBetween_RPartial,org.joda.time.TestWeeks.testAddToLocalDate,org.joda.time.TestYears.testFactory_yearsBetween_RPartial,org.joda.time.TestYears.testAddToLocalDate"

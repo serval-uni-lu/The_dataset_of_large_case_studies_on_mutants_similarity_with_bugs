@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_11,RandomStringUtils_6.java,6,0,None
+Lang_11,RandomStringUtils_2.java,2,0,None
+Lang_11,RandomStringUtils_7.java,7,0,None
+Lang_11,RandomStringUtils_8.java,8,-1,None
+Lang_11,RandomStringUtils_4.java,4,-1,None
+Lang_11,RandomStringUtils_3.java,3,0,None
+Lang_11,RandomStringUtils_1.java,1,0,None
+Lang_11,RandomStringUtils_5.java,5,-1,None

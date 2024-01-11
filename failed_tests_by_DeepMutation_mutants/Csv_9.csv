@@ -1,0 +1,14 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Csv_9,CSVRecord_5.java,5,-1,None
+Csv_9,CSVRecord_6.java,6,-1,None
+Csv_9,CSVRecord_12.java,12,0,None
+Csv_9,CSVRecord_1.java,1,0,None
+Csv_9,CSVRecord_2.java,2,2,"org.apache.commons.csv.CSVRecordTest.testIsSet,org.apache.commons.csv.CSVRecordTest.testIsMapped"
+Csv_9,CSVRecord_4.java,4,-1,None
+Csv_9,CSVRecord_8.java,8,0,None
+Csv_9,CSVRecord_9.java,9,0,None
+Csv_9,CSVRecord_10.java,10,2,"org.apache.commons.csv.CSVFileParserTest.testCSVFile[0],org.apache.commons.csv.CSVFileParserTest.testCSVFile[1]"
+Csv_9,CSVRecord_13.java,13,-1,None
+Csv_9,CSVRecord_3.java,3,-1,None
+Csv_9,CSVRecord_11.java,11,-1,None
+Csv_9,CSVRecord_7.java,7,0,None

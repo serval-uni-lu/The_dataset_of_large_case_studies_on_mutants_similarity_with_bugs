@@ -1,0 +1,14 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_28,TarArchiveInputStream_2.java,2,-1,None
+Compress_28,TarArchiveInputStream_13.java,13,0,None
+Compress_28,TarArchiveInputStream_11.java,11,0,None
+Compress_28,TarArchiveInputStream_5.java,5,0,None
+Compress_28,TarArchiveInputStream_12.java,12,0,None
+Compress_28,TarArchiveInputStream_1.java,1,0,None
+Compress_28,TarArchiveInputStream_3.java,3,1,"org.apache.commons.compress.IOMethodsTest.testReadTar"
+Compress_28,TarArchiveInputStream_8.java,8,2,"org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest.datePriorToEpochInPAXFormat,org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest.testWriteLongLinkNamePosixMode"
+Compress_28,TarArchiveInputStream_6.java,6,0,None
+Compress_28,TarArchiveInputStream_7.java,7,0,None
+Compress_28,TarArchiveInputStream_9.java,9,0,None
+Compress_28,TarArchiveInputStream_4.java,4,1,"org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest.shouldConsumeArchiveCompletely"
+Compress_28,TarArchiveInputStream_10.java,10,0,None

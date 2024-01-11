@@ -1,0 +1,14 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonDatabind_18,MappingIterator_13.java,13,-1,None
+JacksonDatabind_18,MappingIterator_12.java,12,-1,None
+JacksonDatabind_18,MappingIterator_2.java,2,-1,None
+JacksonDatabind_18,MappingIterator_10.java,10,-1,None
+JacksonDatabind_18,MappingIterator_1.java,1,-1,None
+JacksonDatabind_18,MappingIterator_4.java,4,-1,None
+JacksonDatabind_18,MappingIterator_5.java,5,-1,None
+JacksonDatabind_18,MappingIterator_7.java,7,-1,None
+JacksonDatabind_18,MappingIterator_3.java,3,-1,None
+JacksonDatabind_18,MappingIterator_9.java,9,-1,None
+JacksonDatabind_18,MappingIterator_11.java,11,-1,None
+JacksonDatabind_18,MappingIterator_8.java,8,-1,None
+JacksonDatabind_18,MappingIterator_6.java,6,-1,None

@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonCore_5,JsonPointer_7.java,7,3,"com.fasterxml.jackson.core.TestJsonPointer.testSimplePath,com.fasterxml.jackson.core.TestJsonPointer.testLongNumbers,com.fasterxml.jackson.core.TestJsonPointer.testQuotedPath"
+JacksonCore_5,JsonPointer_2.java,2,3,"com.fasterxml.jackson.core.TestJsonPointer.testSimplePath,com.fasterxml.jackson.core.TestJsonPointer.testLongNumbers,com.fasterxml.jackson.core.TestJsonPointer.testQuotedPath"
+JacksonCore_5,JsonPointer_6.java,6,0,None
+JacksonCore_5,JsonPointer_5.java,5,3,"com.fasterxml.jackson.core.TestJsonPointer.testSimplePath,com.fasterxml.jackson.core.TestJsonPointer.testLongNumbers,com.fasterxml.jackson.core.TestJsonPointer.testQuotedPath"
+JacksonCore_5,JsonPointer_1.java,1,-1,None
+JacksonCore_5,JsonPointer_4.java,4,0,None
+JacksonCore_5,JsonPointer_3.java,3,0,None
+JacksonCore_5,JsonPointer_8.java,8,0,None

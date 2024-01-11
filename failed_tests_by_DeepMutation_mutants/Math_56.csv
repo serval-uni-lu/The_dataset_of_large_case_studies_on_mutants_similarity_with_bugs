@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_56,MultidimensionalCounter_8.java,8,0,None
+Math_56,MultidimensionalCounter_5.java,5,0,None
+Math_56,MultidimensionalCounter_4.java,4,0,None
+Math_56,MultidimensionalCounter_1.java,1,0,None
+Math_56,MultidimensionalCounter_3.java,3,0,None
+Math_56,MultidimensionalCounter_7.java,7,0,None
+Math_56,MultidimensionalCounter_2.java,2,-1,None
+Math_56,MultidimensionalCounter_9.java,9,0,None
+Math_56,MultidimensionalCounter_6.java,6,0,None

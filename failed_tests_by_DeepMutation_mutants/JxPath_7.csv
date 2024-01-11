@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JxPath_7,CoreOperationGreaterThanOrEqual_2.java,2,4,"org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationGreaterThan,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationLessThanOrEqual,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationLessThan,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationGreaterThanOrEqual"
+JxPath_7,CoreOperationRelationalExpression_4.java,4,0,None
+JxPath_7,CoreOperationLessThan_2.java,2,3,"org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationAnd,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationLessThan,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationOr"
+JxPath_7,CoreOperationRelationalExpression_3.java,3,0,None
+JxPath_7,CoreOperationRelationalExpression_1.java,1,-1,None
+JxPath_7,CoreOperationGreaterThan_2.java,2,3,"org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationGreaterThan,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationAnd,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationOr"
+JxPath_7,CoreOperationGreaterThanOrEqual_1.java,1,0,None
+JxPath_7,CoreOperationLessThanOrEqual_2.java,2,3,"org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationGreaterThan,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationLessThanOrEqual,org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationOr"
+JxPath_7,CoreOperationLessThan_1.java,1,3,"org.apache.commons.jxpath.ri.compiler.CoreFunctionTest.testExtendedKeyFunction,org.apache.commons.jxpath.ri.model.beans.BeanModelTest.testBooleanPredicate,org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest.testBooleanPredicate"
+JxPath_7,CoreOperationLessThanOrEqual_1.java,1,0,None
+JxPath_7,CoreOperationRelationalExpression_2.java,2,0,None
+JxPath_7,CoreOperationGreaterThan_1.java,1,0,None

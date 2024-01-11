@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_34,ListPopulation_3.java,3,-1,None
+Math_34,ListPopulation_5.java,5,-1,None
+Math_34,ListPopulation_2.java,2,-1,None
+Math_34,ListPopulation_6.java,6,-1,None
+Math_34,ListPopulation_1.java,1,-1,None
+Math_34,ListPopulation_7.java,7,-1,None
+Math_34,ListPopulation_4.java,4,-1,None

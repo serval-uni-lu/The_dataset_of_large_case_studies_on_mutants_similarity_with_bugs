@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_20,CpioArchiveInputStream_8.java,8,0,None
+Compress_20,CpioArchiveInputStream_4.java,4,-1,None
+Compress_20,CpioArchiveInputStream_1.java,1,0,None
+Compress_20,CpioArchiveInputStream_3.java,3,0,None
+Compress_20,CpioArchiveInputStream_6.java,6,0,None
+Compress_20,CpioArchiveInputStream_2.java,2,0,None
+Compress_20,CpioArchiveInputStream_5.java,5,-1,None
+Compress_20,CpioArchiveInputStream_7.java,7,-1,None

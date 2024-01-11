@@ -1,0 +1,9 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_60,NormalDistributionImpl_6.java,6,0,None
+Math_60,NormalDistributionImpl_4.java,4,0,None
+Math_60,NormalDistributionImpl_3.java,3,2,"org.apache.commons.math.distribution.NormalDistributionTest.testGetStandardDeviation,org.apache.commons.math.distribution.NormalDistributionTest.testQuantiles"
+Math_60,NormalDistributionImpl_8.java,8,-1,None
+Math_60,NormalDistributionImpl_1.java,1,0,None
+Math_60,NormalDistributionImpl_2.java,2,0,None
+Math_60,NormalDistributionImpl_5.java,5,3,"org.apache.commons.math.distribution.NormalDistributionTest.testQuantiles,org.apache.commons.math.distribution.NormalDistributionTest.testDensity,org.apache.commons.math.distribution.NormalDistributionTest.testDensities"
+Math_60,NormalDistributionImpl_7.java,7,2,"org.apache.commons.math.distribution.NormalDistributionTest.testQuantiles,org.apache.commons.math.distribution.NormalDistributionTest.testGetMean"

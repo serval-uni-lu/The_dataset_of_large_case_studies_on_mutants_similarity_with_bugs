@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_65,DateUtils_2.java,2,-1,None
+Lang_65,DateUtils_12.java,12,-1,None
+Lang_65,DateUtils_8.java,8,0,None
+Lang_65,DateUtils_3.java,3,-1,None
+Lang_65,DateUtils_9.java,9,-1,None
+Lang_65,DateUtils_10.java,10,-1,None
+Lang_65,DateUtils_4.java,4,1,"org.apache.commons.lang.time.DateUtilsTest.testAddMinutes"
+Lang_65,DateUtils_1.java,1,-1,None
+Lang_65,DateUtils_7.java,7,-1,None
+Lang_65,DateUtils_11.java,11,1,"org.apache.commons.lang.time.DateUtilsTest.testAddSeconds"
+Lang_65,DateUtils_6.java,6,-1,None
+Lang_65,DateUtils_5.java,5,-1,None

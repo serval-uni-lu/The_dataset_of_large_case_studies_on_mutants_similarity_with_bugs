@@ -1,0 +1,12 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_79,LeafNode_1.java,1,1,"org.jsoup.nodes.TextNodeTest.testLeadNodesHaveNoChildren"
+Jsoup_79,LeafNode_2.java,2,0,None
+Jsoup_79,LeafNode_3.java,3,0,None
+Jsoup_79,LeafNode_4.java,4,5,"org.jsoup.nodes.ElementTest.testManipulateTextNodes,org.jsoup.nodes.NodeTest.childNodesCopy,org.jsoup.nodes.TextNodeTest.testTextBean,org.jsoup.nodes.TextNodeTest.testSplitText,org.jsoup.nodes.TextNodeTest.testSplitAnEmbolden"
+Jsoup_79,LeafNode_6.java,6,0,None
+Jsoup_79,LeafNode_7.java,7,0,None
+Jsoup_79,LeafNode_5.java,5,0,None
+Jsoup_79,LeafNode_11.java,11,0,None
+Jsoup_79,LeafNode_8.java,8,0,None
+Jsoup_79,LeafNode_10.java,10,0,None
+Jsoup_79,LeafNode_9.java,9,-1,None

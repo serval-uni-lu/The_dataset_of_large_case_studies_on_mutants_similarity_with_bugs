@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_55,TokeniserState_2.java,2,-1,None
+Jsoup_55,TokeniserState_11.java,11,3,"org.jsoup.nodes.ElementTest.testSetHtmlTitle,org.jsoup.parser.HtmlParserTest.handlesTagsInTextarea,org.jsoup.parser.HtmlParserTest.handlesUnclosedTitleAtEof"
+Jsoup_55,TokeniserState_10.java,10,0,None
+Jsoup_55,TokeniserState_3.java,3,1,"org.jsoup.parser.HtmlParserTest.handlesCdata"
+Jsoup_55,TokeniserState_6.java,6,0,None
+Jsoup_55,TokeniserState_5.java,5,2,"org.jsoup.parser.HtmlParserTest.handlesQuotesInCommentsInScripts,org.jsoup.parser.HtmlParserTest.handlesEscapedScript"
+Jsoup_55,TokeniserState_13.java,13,-1,None
+Jsoup_55,TokeniserState_12.java,12,-1,None
+Jsoup_55,TokeniserState_15.java,15,-1,None
+Jsoup_55,TokeniserState_8.java,8,-1,None
+Jsoup_55,TokeniserState_9.java,9,-1,None
+Jsoup_55,TokeniserState_14.java,14,0,None
+Jsoup_55,TokeniserState_7.java,7,0,None
+Jsoup_55,TokeniserState_1.java,1,-1,None
+Jsoup_55,TokeniserState_4.java,4,2,"org.jsoup.parser.HtmlParserTest.handlesQuotesInCommentsInScripts,org.jsoup.parser.HtmlParserTest.handlesEscapedScript"

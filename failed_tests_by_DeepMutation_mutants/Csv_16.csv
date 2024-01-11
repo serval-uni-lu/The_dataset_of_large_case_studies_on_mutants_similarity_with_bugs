@@ -1,0 +1,12 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Csv_16,CSVParser_7.java,7,0,None
+Csv_16,CSVParser_9.java,9,0,None
+Csv_16,CSVParser_1.java,1,0,None
+Csv_16,CSVParser_10.java,10,0,None
+Csv_16,CSVParser_11.java,11,0,None
+Csv_16,CSVParser_8.java,8,0,None
+Csv_16,CSVParser_5.java,5,0,None
+Csv_16,CSVParser_2.java,2,3,"org.apache.commons.csv.CSVParserTest.testFirstEndOfLineCrLf,org.apache.commons.csv.CSVParserTest.testFirstEndOfLineCr,org.apache.commons.csv.CSVParserTest.testFirstEndOfLineLf"
+Csv_16,CSVParser_4.java,4,1,"org.apache.commons.csv.CSVParserTest.testIterator"
+Csv_16,CSVParser_6.java,6,30,"org.apache.commons.csv.CSVFileParserTest.testCSVFile[0],org.apache.commons.csv.CSVFileParserTest.testCSVFile[1],org.apache.commons.csv.CSVFileParserTest.testCSVFile[2],org.apache.commons.csv.CSVFileParserTest.testCSVFile[3],org.apache.commons.csv.CSVFileParserTest.testCSVFile[4],org.apache.commons.csv.CSVFileParserTest.testCSVFile[5],org.apache.commons.csv.CSVParserTest.testMultipleIterators,org.apache.commons.csv.CSVParserTest.testHeaderComment,org.apache.commons.csv.CSVParserTest.testHeaderMissing,org.apache.commons.csv.CSVParserTest.testTrailingDelimiter,org.apache.commons.csv.CSVParserTest.testProvidedHeaderAuto,org.apache.commons.csv.CSVParserTest.testSkipSetAltHeaders,org.apache.commons.csv.CSVParserTest.testClose,org.apache.commons.csv.CSVParserTest.testTrim,org.apache.commons.csv.CSVParserTest.testForEach,org.apache.commons.csv.CSVParserTest.testIgnoreCaseHeaderMapping,org.apache.commons.csv.CSVParserTest.testProvidedHeader,org.apache.commons.csv.CSVParserTest.testIteratorSequenceBreaking,org.apache.commons.csv.CSVParserTest.testSkipHeaderOverrideDuplicateHeaders,org.apache.commons.csv.CSVParserTest.testRoundtrip,org.apache.commons.csv.CSVParserTest.testGetHeaderMap,org.apache.commons.csv.CSVParserTest.testMappedButNotSetAsOutlook2007ContactExport,org.apache.commons.csv.CSVParserTest.testSkipSetHeader,org.apache.commons.csv.CSVParserTest.testHeader,org.apache.commons.csv.CSVParserTest.testIterator,org.apache.commons.csv.CSVParserTest.testSkipAutoHeader,org.apache.commons.csv.CSVPrinterTest.testParseCustomNullValues,org.apache.commons.csv.CSVRecordTest.testToMapWithShortRecord,org.apache.commons.csv.CSVRecordTest.testToMapWithNoHeader,org.apache.commons.csv.issues.JiraCsv198Test.test"
+Csv_16,CSVParser_3.java,3,-1,None

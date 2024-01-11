@@ -1,0 +1,5 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_58,GaussianFitter_3.java,3,0,None
+Math_58,GaussianFitter_1.java,1,-1,None
+Math_58,GaussianFitter_2.java,2,6,"org.apache.commons.math.optimization.fitting.GaussianFitterTest.testFit01,org.apache.commons.math.optimization.fitting.GaussianFitterTest.testFit04,org.apache.commons.math.optimization.fitting.GaussianFitterTest.testFit05,org.apache.commons.math.optimization.fitting.GaussianFitterTest.testFit06,org.apache.commons.math.optimization.fitting.GaussianFitterTest.testFit07,org.apache.commons.math.optimization.fitting.GaussianFitterTest.testMath519"
+Math_58,GaussianFitter_4.java,4,1,"org.apache.commons.math.optimization.fitting.GaussianFitterTest.testMath519"

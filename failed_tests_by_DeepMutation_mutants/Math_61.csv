@@ -1,0 +1,6 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_61,PoissonDistributionImpl_1.java,1,3,"org.apache.commons.math.distribution.PoissonDistributionTest.testDegenerateInverseCumulativeProbability,org.apache.commons.math.distribution.PoissonDistributionTest.testLargeMeanInverseCumulativeProbability,org.apache.commons.math.distribution.PoissonDistributionTest.testInverseCumulativeProbabilities"
+Math_61,PoissonDistributionImpl_4.java,4,2,"org.apache.commons.math.distribution.FDistributionTest.testSampling,org.apache.commons.math.distribution.PoissonDistributionTest.testMean"
+Math_61,PoissonDistributionImpl_2.java,2,0,None
+Math_61,PoissonDistributionImpl_5.java,5,-1,None
+Math_61,PoissonDistributionImpl_3.java,3,1,"org.apache.commons.math.distribution.PoissonDistributionTest.testNormalApproximateProbability"

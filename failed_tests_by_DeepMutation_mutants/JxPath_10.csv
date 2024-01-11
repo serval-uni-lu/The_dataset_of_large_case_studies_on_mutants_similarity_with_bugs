@@ -1,0 +1,5 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JxPath_10,CoreOperationRelationalExpression_4.java,4,0,None
+JxPath_10,CoreOperationRelationalExpression_3.java,3,0,None
+JxPath_10,CoreOperationRelationalExpression_1.java,1,0,None
+JxPath_10,CoreOperationRelationalExpression_2.java,2,0,None

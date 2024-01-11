@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_45,OpenMapRealMatrix_7.java,7,0,None
+Math_45,OpenMapRealMatrix_5.java,5,0,None
+Math_45,OpenMapRealMatrix_6.java,6,0,None
+Math_45,OpenMapRealMatrix_3.java,3,0,None
+Math_45,OpenMapRealMatrix_2.java,2,-1,None
+Math_45,OpenMapRealMatrix_4.java,4,20,"org.apache.commons.math.linear.SparseRealMatrixTest.testOperate,org.apache.commons.math.linear.SparseRealMatrixTest.testExamples,org.apache.commons.math.linear.SparseRealMatrixTest.testGetEntry,org.apache.commons.math.linear.SparseRealMatrixTest.testTrace,org.apache.commons.math.linear.SparseRealMatrixTest.testNorm,org.apache.commons.math.linear.SparseRealMatrixTest.testToString,org.apache.commons.math.linear.SparseRealMatrixTest.testMultiply2,org.apache.commons.math.linear.SparseRealMatrixTest.testSubMatrix,org.apache.commons.math.linear.SparseRealMatrixTest.testPremultiplyVector,org.apache.commons.math.linear.SparseRealMatrixTest.testMath209,org.apache.commons.math.linear.SparseRealMatrixTest.testGetVectors,org.apache.commons.math.linear.SparseRealMatrixTest.testGetColumnMatrix,org.apache.commons.math.linear.SparseRealMatrixTest.testGetColumnVector,org.apache.commons.math.linear.SparseRealMatrixTest.testMultiply,org.apache.commons.math.linear.SparseRealMatrixTest.testTranspose,org.apache.commons.math.linear.SparseRealMatrixTest.testPremultiply,org.apache.commons.math.linear.SparseRealMatrixTest.testSetSubMatrix,org.apache.commons.math.linear.SparseRealMatrixTest.testGetRowVector,org.apache.commons.math.linear.SparseRealVectorTest.testBasicFunctions,org.apache.commons.math.linear.SparseRealVectorTest.testOuterProduct"
+Math_45,OpenMapRealMatrix_1.java,1,0,None

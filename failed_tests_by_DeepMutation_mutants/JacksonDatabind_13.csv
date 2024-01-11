@@ -1,0 +1,11 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonDatabind_13,DefaultDeserializationContext_5.java,5,-1,None
+JacksonDatabind_13,ObjectIdValueProperty_5.java,5,-1,None
+JacksonDatabind_13,ObjectIdValueProperty_1.java,1,-1,None
+JacksonDatabind_13,DefaultDeserializationContext_1.java,1,-1,None
+JacksonDatabind_13,ObjectIdValueProperty_3.java,3,-1,None
+JacksonDatabind_13,DefaultDeserializationContext_4.java,4,-1,None
+JacksonDatabind_13,DefaultDeserializationContext_3.java,3,-1,None
+JacksonDatabind_13,DefaultDeserializationContext_2.java,2,-1,None
+JacksonDatabind_13,ObjectIdValueProperty_2.java,2,-1,None
+JacksonDatabind_13,ObjectIdValueProperty_4.java,4,-1,None

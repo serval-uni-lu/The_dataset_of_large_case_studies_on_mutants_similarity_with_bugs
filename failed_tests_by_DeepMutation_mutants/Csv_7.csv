@@ -1,0 +1,13 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Csv_7,CSVParser_12.java,12,0,None
+Csv_7,CSVParser_7.java,7,0,None
+Csv_7,CSVParser_9.java,9,0,None
+Csv_7,CSVParser_1.java,1,-1,None
+Csv_7,CSVParser_10.java,10,0,None
+Csv_7,CSVParser_11.java,11,0,None
+Csv_7,CSVParser_8.java,8,0,None
+Csv_7,CSVParser_5.java,5,1,"org.apache.commons.csv.CSVParserTest.testParseFileNullFormat"
+Csv_7,CSVParser_2.java,2,0,None
+Csv_7,CSVParser_4.java,4,-1,None
+Csv_7,CSVParser_6.java,6,1,"org.apache.commons.csv.CSVParserTest.testIterator"
+Csv_7,CSVParser_3.java,3,-1,None

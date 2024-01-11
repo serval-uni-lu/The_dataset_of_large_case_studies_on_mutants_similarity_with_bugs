@@ -1,0 +1,7 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_1,CpioArchiveOutputStream_5.java,5,0,None
+Compress_1,CpioArchiveOutputStream_6.java,6,0,None
+Compress_1,CpioArchiveOutputStream_3.java,3,-1,None
+Compress_1,CpioArchiveOutputStream_2.java,2,1,"org.apache.commons.compress.archivers.CpioTestCase.testCpioUnarchive"
+Compress_1,CpioArchiveOutputStream_1.java,1,0,None
+Compress_1,CpioArchiveOutputStream_4.java,4,-1,None

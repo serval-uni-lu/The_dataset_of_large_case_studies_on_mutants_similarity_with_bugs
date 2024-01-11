@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_33,CompressorStreamFactory_1.java,1,1,"org.apache.commons.compress.compressors.DetectCompressorTestCase.testOverride"
+Compress_33,DeflateCompressorInputStream_1.java,1,0,None
+Compress_33,DeflateCompressorInputStream_5.java,5,0,None
+Compress_33,DeflateCompressorInputStream_4.java,4,0,None
+Compress_33,DeflateCompressorInputStream_3.java,3,0,None
+Compress_33,DeflateCompressorInputStream_2.java,2,2,"org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest.singleByteReadWorksAsExpected,org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest.singleByteReadReturnsMinusOneAtEof"
+Compress_33,CompressorStreamFactory_2.java,2,2,"org.apache.commons.compress.compressors.DetectCompressorTestCase.testOverride,org.apache.commons.compress.compressors.DetectCompressorTestCase.testMutiples"

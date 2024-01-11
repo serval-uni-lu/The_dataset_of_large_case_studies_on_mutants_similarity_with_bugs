@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonDatabind_99,ReferenceType_4.java,4,-1,None
+JacksonDatabind_99,ReferenceType_5.java,5,-1,None
+JacksonDatabind_99,ReferenceType_6.java,6,-1,None
+JacksonDatabind_99,ReferenceType_12.java,12,-1,None
+JacksonDatabind_99,ReferenceType_10.java,10,-1,None
+JacksonDatabind_99,ReferenceType_8.java,8,-1,None
+JacksonDatabind_99,ReferenceType_14.java,14,-1,None
+JacksonDatabind_99,ReferenceType_11.java,11,-1,None
+JacksonDatabind_99,ReferenceType_13.java,13,-1,None
+JacksonDatabind_99,ReferenceType_7.java,7,-1,None
+JacksonDatabind_99,ReferenceType_2.java,2,-1,None
+JacksonDatabind_99,ReferenceType_15.java,15,-1,None
+JacksonDatabind_99,ReferenceType_1.java,1,-1,None
+JacksonDatabind_99,ReferenceType_3.java,3,-1,None
+JacksonDatabind_99,ReferenceType_9.java,9,-1,None

@@ -1,0 +1,11 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Csv_3,Lexer_5.java,5,0,None
+Csv_3,Lexer_10.java,10,0,None
+Csv_3,Lexer_3.java,3,0,None
+Csv_3,Lexer_8.java,8,-1,None
+Csv_3,Lexer_2.java,2,0,None
+Csv_3,Lexer_4.java,4,0,None
+Csv_3,Lexer_7.java,7,7,"org.apache.commons.csv.CSVFileParserTest.testCSVFile[3],org.apache.commons.csv.CSVLexerTest.testNextToken4,org.apache.commons.csv.CSVLexerTest.testSurroundingSpacesAreDeleted,org.apache.commons.csv.CSVLexerTest.testSurroundingTabsAreDeleted,org.apache.commons.csv.CSVLexerTest.testDelimiterIsWhitespace,org.apache.commons.csv.CSVParserTest.testGetLine,org.apache.commons.csv.CSVParserTest.testGetRecords"
+Csv_3,Lexer_6.java,6,3,"org.apache.commons.csv.CSVParserTest.testGetRecordNumberWithCR,org.apache.commons.csv.CSVParserTest.testGetLineNumberWithCR,org.apache.commons.csv.CSVParserTest.testCarriageReturnEndings"
+Csv_3,Lexer_1.java,1,0,None
+Csv_3,Lexer_9.java,9,0,None

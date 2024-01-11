@@ -1,0 +1,3 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_40,DocumentType_1.java,1,8,"org.jsoup.nodes.DocumentTest.testClonesDeclarations,org.jsoup.nodes.DocumentTest.testHtmlAndXmlSyntax,org.jsoup.nodes.DocumentTypeTest.outerHtmlGeneration,org.jsoup.parser.HtmlParserTest.normalisesDocument,org.jsoup.parser.HtmlParserTest.handlesInvalidDoctypes,org.jsoup.parser.HtmlParserTest.handlesWhitespaceInoDocType,org.jsoup.parser.HtmlParserTest.handlesUnclosedFormattingElements,org.jsoup.parser.XmlTreeBuilderTest.testCommentAndDocType"
+Jsoup_40,DocumentType_2.java,2,0,None

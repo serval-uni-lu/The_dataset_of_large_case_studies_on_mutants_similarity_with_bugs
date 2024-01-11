@@ -1,0 +1,16 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Lang_49,Fraction_1.java,1,0,None
+Lang_49,Fraction_14.java,14,3,"org.apache.commons.lang.math.FractionTest.testAbs,org.apache.commons.lang.math.FractionTest.testSubtract,org.apache.commons.lang.math.FractionTest.testNegate"
+Lang_49,Fraction_8.java,8,0,None
+Lang_49,Fraction_6.java,6,0,None
+Lang_49,Fraction_10.java,10,-1,None
+Lang_49,Fraction_5.java,5,1,"org.apache.commons.lang.math.FractionTest.testHashCode"
+Lang_49,Fraction_9.java,9,-1,None
+Lang_49,Fraction_7.java,7,0,None
+Lang_49,Fraction_2.java,2,0,None
+Lang_49,Fraction_4.java,4,2,"org.apache.commons.lang.math.FractionTest.testGets,org.apache.commons.lang.math.FractionTest.testToProperString"
+Lang_49,Fraction_11.java,11,0,None
+Lang_49,Fraction_12.java,12,0,None
+Lang_49,Fraction_15.java,15,-1,None
+Lang_49,Fraction_13.java,13,1,"org.apache.commons.lang.math.FractionTest.testAbs"
+Lang_49,Fraction_3.java,3,-1,None

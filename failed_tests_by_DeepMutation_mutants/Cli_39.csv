@@ -1,0 +1,8 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Cli_39,TypeHandler_4.java,4,0,None
+Cli_39,TypeHandler_3.java,3,9,"org.apache.commons.cli.CommandLineTest.testGetParsedOptionValue,org.apache.commons.cli.CommandLineTest.testGetParsedOptionValueWithOption,org.apache.commons.cli.CommandLineTest.testGetParsedOptionValueWithChar,org.apache.commons.cli.PatternOptionBuilderTest.testSimplePattern,org.apache.commons.cli.PatternOptionBuilderTest.testExistingFilePattern,org.apache.commons.cli.PatternOptionBuilderTest.testURLPattern,org.apache.commons.cli.PatternOptionBuilderTest.testClassPattern,org.apache.commons.cli.PatternOptionBuilderTest.testNumberPattern,org.apache.commons.cli.PatternOptionBuilderTest.testObjectPattern"
+Cli_39,TypeHandler_1.java,1,-1,None
+Cli_39,TypeHandler_7.java,7,0,None
+Cli_39,TypeHandler_2.java,2,0,None
+Cli_39,TypeHandler_5.java,5,-1,None
+Cli_39,TypeHandler_6.java,6,0,None

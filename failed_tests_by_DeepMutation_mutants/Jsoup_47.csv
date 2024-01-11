@@ -1,0 +1,10 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Jsoup_47,Entities_3.java,3,0,None
+Jsoup_47,Entities_8.java,8,-1,None
+Jsoup_47,Entities_7.java,7,0,None
+Jsoup_47,Entities_9.java,9,7,"org.jsoup.integration.ParseTest.testBaidu,org.jsoup.nodes.DocumentTest.testOutputEncoding,org.jsoup.nodes.EntitiesTest.escape,org.jsoup.nodes.EntitiesTest.caseSensitive,org.jsoup.nodes.EntitiesTest.letterDigitEntities,org.jsoup.parser.HtmlParserTest.relaxedBaseEntityMatchAndStrictExtendedMatch,org.jsoup.safety.CleanerTest.supplyOutputSettings"
+Jsoup_47,Entities_2.java,2,0,None
+Jsoup_47,Entities_5.java,5,0,None
+Jsoup_47,Entities_4.java,4,0,None
+Jsoup_47,Entities_1.java,1,-1,None
+Jsoup_47,Entities_6.java,6,0,None

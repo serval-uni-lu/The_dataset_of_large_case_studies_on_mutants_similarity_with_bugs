@@ -1,0 +1,3 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Codec_12,BaseNCodecInputStream_1.java,1,0,None
+Codec_12,BaseNCodecInputStream_2.java,2,2,"org.apache.commons.codec.binary.Base32InputStreamTest.testAvailable,org.apache.commons.codec.binary.Base64InputStreamTest.testAvailable"

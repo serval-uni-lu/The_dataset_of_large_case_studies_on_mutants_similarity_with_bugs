@@ -1,0 +1,6 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JxPath_11,DOMAttributeIterator_1.java,1,0,None
+JxPath_11,DOMAttributeIterator_3.java,3,-1,None
+JxPath_11,DOMAttributeIterator_2.java,2,1,"org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisAttribute"
+JxPath_11,JDOMAttributeIterator_2.java,2,-1,None
+JxPath_11,JDOMAttributeIterator_1.java,1,0,None

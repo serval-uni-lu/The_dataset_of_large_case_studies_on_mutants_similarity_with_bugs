@@ -1,0 +1,14 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+JacksonCore_10,ByteQuadsCanonicalizer_10.java,10,-1,None
+JacksonCore_10,ByteQuadsCanonicalizer_4.java,4,-1,None
+JacksonCore_10,ByteQuadsCanonicalizer_1.java,1,0,None
+JacksonCore_10,ByteQuadsCanonicalizer_2.java,2,3,"com.fasterxml.jackson.core.sym.TestJsonParserSymbols.testByteSymbolsWithEOF,com.fasterxml.jackson.core.sym.TestJsonParserSymbols.testByteSymbolsWithClose,com.fasterxml.jackson.core.sym.TestSymbolTables.testThousandsOfSymbolsWithNew"
+JacksonCore_10,ByteQuadsCanonicalizer_9.java,9,-1,None
+JacksonCore_10,ByteQuadsCanonicalizer_7.java,7,7,"com.fasterxml.jackson.core.sym.TestSymbolTables.testShortQuotedDirectBytes,com.fasterxml.jackson.core.sym.TestSymbolTables.testCollisionsWithBytesNew187a,com.fasterxml.jackson.core.sym.TestSymbolTables.testCollisionsWithBytesNew187b,com.fasterxml.jackson.core.sym.TestSymbolTables.testThousandsOfSymbolsWithNew,com.fasterxml.jackson.core.sym.TestSymbolTables.testSyntheticWithBytesNew,com.fasterxml.jackson.core.sym.TestSymbolTables.testShortNameCollisionsDirectNew,com.fasterxml.jackson.core.sym.TestSymbolsWithMediaItem.testSmallSymbolSetWithBytes"
+JacksonCore_10,ByteQuadsCanonicalizer_3.java,3,0,None
+JacksonCore_10,ByteQuadsCanonicalizer_8.java,8,-1,None
+JacksonCore_10,ByteQuadsCanonicalizer_5.java,5,0,None
+JacksonCore_10,ByteQuadsCanonicalizer_11.java,11,3,"com.fasterxml.jackson.core.sym.TestJsonParserSymbols.testByteSymbolsWithEOF,com.fasterxml.jackson.core.sym.TestJsonParserSymbols.testByteSymbolsWithClose,com.fasterxml.jackson.core.sym.TestSymbolTables.testThousandsOfSymbolsWithNew"
+JacksonCore_10,ByteQuadsCanonicalizer_12.java,12,11,"com.fasterxml.jackson.core.json.TestNextXxx.testNextNameWithLongContent,com.fasterxml.jackson.core.json.TestParserNonStandard.testLargeUnquoted,com.fasterxml.jackson.core.json.TestWithTonsaSymbols.testStreamReaderParser,com.fasterxml.jackson.core.main.TestGeneratorMisc.testLongerObjects,com.fasterxml.jackson.core.sym.TestSymbolTables.testShortQuotedDirectBytes,com.fasterxml.jackson.core.sym.TestSymbolTables.testCollisionsWithBytesNew187a,com.fasterxml.jackson.core.sym.TestSymbolTables.testCollisionsWithBytesNew187b,com.fasterxml.jackson.core.sym.TestSymbolTables.testShortNameCollisionsViaParser,com.fasterxml.jackson.core.sym.TestSymbolTables.testThousandsOfSymbolsWithNew,com.fasterxml.jackson.core.sym.TestSymbolTables.testSyntheticWithBytesNew,com.fasterxml.jackson.core.sym.TestSymbolTables.testShortNameCollisionsDirectNew"
+JacksonCore_10,ByteQuadsCanonicalizer_6.java,6,-1,None
+JacksonCore_10,ByteQuadsCanonicalizer_13.java,13,0,None

@@ -1,0 +1,5 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_2,ArArchiveInputStream_1.java,1,0,None
+Compress_2,ArArchiveInputStream_3.java,3,-1,None
+Compress_2,ArArchiveInputStream_2.java,2,0,None
+Compress_2,ArArchiveInputStream_4.java,4,0,None
