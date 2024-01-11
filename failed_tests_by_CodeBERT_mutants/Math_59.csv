@@ -1,0 +1,7 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Math_59,FastMath_4.java,4,-1,None
+Math_59,FastMath_2.java,2,-1,None
+Math_59,FastMath_3.java,3,-1,None
+Math_59,FastMath_5.java,5,-1,None
+Math_59,FastMath_0.java,0,-1,None
+Math_59,FastMath_1.java,1,-1,None

@@ -1,0 +1,132 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Compress_44,ChecksumCalculatingInputStream_97.java,97,-1,None
+Compress_44,ChecksumCalculatingInputStream_121.java,121,-1,None
+Compress_44,ChecksumCalculatingInputStream_11.java,11,-1,None
+Compress_44,ChecksumCalculatingInputStream_118.java,118,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_90.java,90,-1,None
+Compress_44,ChecksumCalculatingInputStream_87.java,87,-1,None
+Compress_44,ChecksumCalculatingInputStream_27.java,27,-1,None
+Compress_44,ChecksumCalculatingInputStream_80.java,80,-1,None
+Compress_44,ChecksumCalculatingInputStream_59.java,59,-1,None
+Compress_44,ChecksumCalculatingInputStream_61.java,61,-1,None
+Compress_44,ChecksumCalculatingInputStream_21.java,21,-1,None
+Compress_44,ChecksumCalculatingInputStream_116.java,116,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_0.java,0,4,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_26.java,26,-1,None
+Compress_44,ChecksumCalculatingInputStream_12.java,12,-1,None
+Compress_44,ChecksumCalculatingInputStream_3.java,3,-1,None
+Compress_44,ChecksumCalculatingInputStream_53.java,53,-1,None
+Compress_44,ChecksumCalculatingInputStream_96.java,96,-1,None
+Compress_44,ChecksumCalculatingInputStream_112.java,112,-1,None
+Compress_44,ChecksumCalculatingInputStream_6.java,6,-1,None
+Compress_44,ChecksumCalculatingInputStream_19.java,19,-1,None
+Compress_44,ChecksumCalculatingInputStream_56.java,56,-1,None
+Compress_44,ChecksumCalculatingInputStream_46.java,46,-1,None
+Compress_44,ChecksumCalculatingInputStream_58.java,58,5,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_98.java,98,-1,None
+Compress_44,ChecksumCalculatingInputStream_33.java,33,-1,None
+Compress_44,ChecksumCalculatingInputStream_113.java,113,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_49.java,49,-1,None
+Compress_44,ChecksumCalculatingInputStream_84.java,84,-1,None
+Compress_44,ChecksumCalculatingInputStream_51.java,51,-1,None
+Compress_44,ChecksumCalculatingInputStream_111.java,111,-1,None
+Compress_44,ChecksumCalculatingInputStream_91.java,91,1,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false]"
+Compress_44,ChecksumCalculatingInputStream_57.java,57,-1,None
+Compress_44,ChecksumCalculatingInputStream_55.java,55,-1,None
+Compress_44,ChecksumCalculatingInputStream_52.java,52,-1,None
+Compress_44,ChecksumCalculatingInputStream_128.java,128,-1,None
+Compress_44,ChecksumCalculatingInputStream_115.java,115,-1,None
+Compress_44,ChecksumCalculatingInputStream_126.java,126,-1,None
+Compress_44,ChecksumCalculatingInputStream_7.java,7,2,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_74.java,74,-1,None
+Compress_44,ChecksumCalculatingInputStream_9.java,9,1,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false]"
+Compress_44,ChecksumCalculatingInputStream_119.java,119,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_10.java,10,-1,None
+Compress_44,ChecksumCalculatingInputStream_66.java,66,-1,None
+Compress_44,ChecksumCalculatingInputStream_71.java,71,0,None
+Compress_44,ChecksumCalculatingInputStream_109.java,109,0,None
+Compress_44,ChecksumCalculatingInputStream_120.java,120,-1,None
+Compress_44,ChecksumCalculatingInputStream_22.java,22,-1,None
+Compress_44,ChecksumCalculatingInputStream_92.java,92,-1,None
+Compress_44,ChecksumCalculatingInputStream_104.java,104,2,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_25.java,25,-1,None
+Compress_44,ChecksumCalculatingInputStream_107.java,107,-1,None
+Compress_44,ChecksumCalculatingInputStream_54.java,54,-1,None
+Compress_44,ChecksumCalculatingInputStream_2.java,2,-1,None
+Compress_44,ChecksumCalculatingInputStream_94.java,94,3,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_44.java,44,-1,None
+Compress_44,ChecksumCalculatingInputStream_122.java,122,-1,None
+Compress_44,ChecksumCalculatingInputStream_105.java,105,-1,None
+Compress_44,ChecksumCalculatingInputStream_62.java,62,-1,None
+Compress_44,ChecksumCalculatingInputStream_35.java,35,-1,None
+Compress_44,ChecksumCalculatingInputStream_42.java,42,-1,None
+Compress_44,ChecksumCalculatingInputStream_1.java,1,-1,None
+Compress_44,ChecksumCalculatingInputStream_76.java,76,3,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_50.java,50,-1,None
+Compress_44,ChecksumCalculatingInputStream_64.java,64,1,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false]"
+Compress_44,ChecksumCalculatingInputStream_16.java,16,2,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_34.java,34,-1,None
+Compress_44,ChecksumCalculatingInputStream_45.java,45,-1,None
+Compress_44,ChecksumCalculatingInputStream_38.java,38,-1,None
+Compress_44,ChecksumCalculatingInputStream_68.java,68,-1,None
+Compress_44,ChecksumCalculatingInputStream_103.java,103,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_13.java,13,-1,None
+Compress_44,ChecksumCalculatingInputStream_4.java,4,-1,None
+Compress_44,ChecksumCalculatingInputStream_75.java,75,-1,None
+Compress_44,ChecksumCalculatingInputStream_14.java,14,2,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_31.java,31,-1,None
+Compress_44,ChecksumCalculatingInputStream_65.java,65,-1,None
+Compress_44,ChecksumCalculatingInputStream_73.java,73,0,None
+Compress_44,ChecksumCalculatingInputStream_81.java,81,-1,None
+Compress_44,ChecksumCalculatingInputStream_106.java,106,-1,None
+Compress_44,ChecksumCalculatingInputStream_60.java,60,-1,None
+Compress_44,ChecksumCalculatingInputStream_63.java,63,-1,None
+Compress_44,ChecksumCalculatingInputStream_47.java,47,-1,None
+Compress_44,ChecksumCalculatingInputStream_93.java,93,6,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest.rejectsBlocksWithoutChecksum,org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_125.java,125,-1,None
+Compress_44,ChecksumCalculatingInputStream_127.java,127,-1,None
+Compress_44,ChecksumCalculatingInputStream_36.java,36,-1,None
+Compress_44,ChecksumCalculatingInputStream_5.java,5,-1,None
+Compress_44,ChecksumCalculatingInputStream_30.java,30,-1,None
+Compress_44,ChecksumCalculatingInputStream_129.java,129,-1,None
+Compress_44,ChecksumCalculatingInputStream_77.java,77,3,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_78.java,78,-1,None
+Compress_44,ChecksumCalculatingInputStream_39.java,39,-1,None
+Compress_44,ChecksumCalculatingInputStream_108.java,108,-1,None
+Compress_44,ChecksumCalculatingInputStream_43.java,43,-1,None
+Compress_44,ChecksumCalculatingInputStream_102.java,102,0,None
+Compress_44,ChecksumCalculatingInputStream_24.java,24,-1,None
+Compress_44,ChecksumCalculatingInputStream_67.java,67,-1,None
+Compress_44,ChecksumCalculatingInputStream_99.java,99,5,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest.rejectsBlocksWithoutChecksum,org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray"
+Compress_44,ChecksumCalculatingInputStream_82.java,82,-1,None
+Compress_44,ChecksumCalculatingInputStream_100.java,100,-1,None
+Compress_44,ChecksumCalculatingInputStream_124.java,124,-1,None
+Compress_44,ChecksumCalculatingInputStream_69.java,69,-1,None
+Compress_44,ChecksumCalculatingInputStream_37.java,37,-1,None
+Compress_44,ChecksumCalculatingInputStream_17.java,17,-1,None
+Compress_44,ChecksumCalculatingInputStream_89.java,89,-1,None
+Compress_44,ChecksumCalculatingInputStream_123.java,123,-1,None
+Compress_44,ChecksumCalculatingInputStream_83.java,83,-1,None
+Compress_44,ChecksumCalculatingInputStream_32.java,32,-1,None
+Compress_44,ChecksumCalculatingInputStream_88.java,88,-1,None
+Compress_44,ChecksumCalculatingInputStream_29.java,29,3,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_101.java,101,-1,None
+Compress_44,ChecksumCalculatingInputStream_28.java,28,3,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_86.java,86,-1,None
+Compress_44,ChecksumCalculatingInputStream_95.java,95,5,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_114.java,114,-1,None
+Compress_44,ChecksumCalculatingInputStream_18.java,18,-1,None
+Compress_44,ChecksumCalculatingInputStream_117.java,117,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"
+Compress_44,ChecksumCalculatingInputStream_20.java,20,-1,None
+Compress_44,ChecksumCalculatingInputStream_85.java,85,-1,None
+Compress_44,ChecksumCalculatingInputStream_72.java,72,5,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments"
+Compress_44,ChecksumCalculatingInputStream_110.java,110,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_70.java,70,0,None
+Compress_44,ChecksumCalculatingInputStream_48.java,48,-1,None
+Compress_44,ChecksumCalculatingInputStream_79.java,79,-1,None
+Compress_44,ChecksumCalculatingInputStream_41.java,41,-1,None
+Compress_44,ChecksumCalculatingInputStream_15.java,15,2,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive"
+Compress_44,ChecksumCalculatingInputStream_23.java,23,-1,None
+Compress_44,ChecksumCalculatingInputStream_130.java,130,-1,None
+Compress_44,ChecksumCalculatingInputStream_40.java,40,1,"org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingByteArray"
+Compress_44,ChecksumCalculatingInputStream_8.java,8,4,"org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest.blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false],org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testReadTakingNoArguments,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningPositive,org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest.testSkipReturningZero"

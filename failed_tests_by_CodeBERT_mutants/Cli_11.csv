@@ -1,0 +1,6 @@
+Bug_ID,Mutant_Name,Mutant_ID,Num_Failing_Tests,Failing_Tests
+Cli_11,HelpFormatter_3.java,3,-1,None
+Cli_11,HelpFormatter_0.java,0,-1,None
+Cli_11,HelpFormatter_4.java,4,-1,None
+Cli_11,HelpFormatter_1.java,1,-1,None
+Cli_11,HelpFormatter_2.java,2,-1,None
