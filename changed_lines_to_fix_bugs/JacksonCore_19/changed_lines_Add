@@ -1,0 +1,14 @@
+src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java 
+2
+1415,10
+3
+4
+5
+6
+src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java 
+11
+1541,10
+3
+4
+5
+6

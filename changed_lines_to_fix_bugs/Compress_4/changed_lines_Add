@@ -1,0 +1,13 @@
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java 
+2
+333,6
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java 
+7
+123,6
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java 
+7
+527,6
+src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java 
+7
+125,7
+3

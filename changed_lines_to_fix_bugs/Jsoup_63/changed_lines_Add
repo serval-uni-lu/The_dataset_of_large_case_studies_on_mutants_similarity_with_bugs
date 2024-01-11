@@ -1,0 +1,12 @@
+src/main/java/org/jsoup/parser/HtmlTreeBuilder.java 
+2
+224,11
+3
+4
+6
+src/main/java/org/jsoup/parser/Tokeniser.java 
+12
+33,6
+40,6
+68,6
+114,6

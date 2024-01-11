@@ -1,0 +1,9 @@
+src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.java 
+2
+113,8
+3
+4
+src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java 
+9
+373,7
+3

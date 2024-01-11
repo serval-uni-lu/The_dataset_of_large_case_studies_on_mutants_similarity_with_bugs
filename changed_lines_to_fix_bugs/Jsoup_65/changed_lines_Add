@@ -1,0 +1,15 @@
+src/main/java/org/jsoup/parser/HtmlTreeBuilder.java 
+2
+357,11
+3
+7
+src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java 
+12
+1033,9
+3
+4
+5
+1095,9
+3
+4
+5
